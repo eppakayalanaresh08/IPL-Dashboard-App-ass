@@ -17,8 +17,6 @@ class TeamMatches extends Component {
   }
 
   componentDidMount() {
-    // FIX12: The method to get data should be called to get data from API
-
     this.getTeamMatches()
   }
 
